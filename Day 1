@@ -1,0 +1,27 @@
+Day 1 of 40 — SOC Analyst Journey
+--What is a SOC
+A Security Operations Centre is the team and infrastructure responsible for continuously monitoring an organisation's systems, detecting threats, and responding to security incidents.
+
+--How a SOC Works
+Collect logs from endpoints, servers, and firewalls
+Correlate the data using SIEM tools
+Generate alerts for suspicious activity
+Analyst triages, investigates, and escalates if needed
+Respond to and document the incident
+
+--Key Functions of a SOC
+Continuous Monitoring
+Threat Detection
+Incident Response
+Reporting and Documentation
+Improvement Loop
+
+--Cybersecurity Career Landscape
+Offensive: penetration testers, red teamers, exploit developers
+Defensive: threat hunters, blue teamers, security researchers
+Specialized: malware analysts, digital forensics, incident responders
+Leadership: CISO, CSO, information security analyst
+
+Takeaway
+A SOC analyst's real job is turning raw, noisy log data into a clear decision: is this nothing, or is this an actual incident.
+40 days, day 1 done.
