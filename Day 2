@@ -1,0 +1,21 @@
+Who is a SOC Analyst (L1)?
+The first line of defence in an organisation's cyber monitoring team. Responsible for monitoring, triaging, and escalating security alerts.
+It's an entry-level Blue Team role that runs on 24x7 shift coverage.
+
+Core Responsibilities:
+Monitoring security alerts via SIEM tools
+Alert triage — analysing logs for IP, URL, and User-Agent data to spot anomalies
+Knowing when and how to escalate (not every alert needs escalation)
+Logging incident tickets via JIRA/ServiceNow
+Reporting & documentation — daily shift logs, incident summaries, status reports
+
+Tools an L1 Uses:
+SIEM (log monitoring): Splunk, Wazuh, ELK
+Ticketing: ServiceNow, JIRA
+Threat Intel: VirusTotal, AbuseIPDB
+Communication: Slack, Email, MS Teams
+
+SOC Team Hierarchy: 
+Security Analysts → Incident Responders → Threat Hunters → SOC Manager → Security Engineers 
+Each branch has its own specialisation (e.g., Analysts do monitoring/triage/collaboration, threat Hunters do advanced detection/vulnerability assessment,
+the Manager does strategic planning/team management).
