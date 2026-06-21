@@ -1,0 +1,18 @@
+Day 4 — Networking Fundamentals (OSI & TCP/IP Models)
+
+OSI Model (7 Layers)
+Physical → Data Link → Network → Transport → Session → Presentation → Application. Each layer handles a specific function in how data moves across a network, 
+from raw bits up to user-facing applications.
+
+TCP/IP Model (4 Layers)
+Network Access → Internet → Transport → Application — the practical, simplified model the internet actually runs on, mapping roughly onto OSI's seven layers.
+
+Networking Devices
+Routers (connect networks, route traffic), Switches (connect devices within a LAN), Firewalls (filter traffic based on rules), Hubs (broadcast to all ports), 
+Access Points (wireless connectivity).
+
+Key Protocols
+TCP/UDP (transport), HTTP/HTTPS (web traffic), DNS (domain resolution), DHCP (IP assignment), FTP/SFTP (file transfer), SMTP (email).
+
+Why It Matters for SOC Work
+Understanding these layers and protocols is essential for reading packet captures, spotting anomalous traffic, and knowing where in the stack an attack or failure is occurring.
