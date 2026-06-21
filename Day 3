@@ -1,0 +1,17 @@
+Core Concepts
+Threat + Vulnerability = Risk, and the CIA Triad (Confidentiality, Integrity, Availability).
+
+Security Domains
+Network, Application, Endpoint, Cloud, IAM, Security Operations.
+
+Threats & Attacks
+Common threats (malware, phishing, insider threats, APTs) and attack types (brute force, DDoS, SQL injection, zero-day), plus the Cyber Kill Chain attack lifecycle.
+
+Defense Layers
+Defense-in-Depth model (perimeter → network → endpoint → app → data → human) and basics of network/endpoint/email security.
+
+SIEM & Triage
+What a SIEM does (Splunk, Sentinel, QRadar), common log sources, and the L1 incident triage process.
+
+Best Practices
+MFA, patching, avoiding public Wi-Fi, user awareness training.
