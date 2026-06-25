@@ -1,1 +1,17 @@
+Day 5- Linux Commands
 
+-Directory management using `mkdir`, `rmdir`, and `ls`
+-Understanding absolute and relative paths
+-Creating, viewing, and managing files using `cat`
+-Using pipes (`|`) to connect commands
+-Removing duplicate lines with `uniq`
+
+Process Management
+-Viewing running processes using `ps aux`
+-Understanding process IDs (PID)
+-Managing processes with `pkill` and `killall`
+
+Key Takeaways
+-Learned how Linux commands work together through the terminal
+-Improved understanding of file navigation and system processes
+-Built a stronger foundation for Linux and cybersecurity concepts
