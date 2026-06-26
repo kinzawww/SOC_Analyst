@@ -1,0 +1,43 @@
+Day 10- Windows Operating Systems 
+
+1. Introduction to Operating Systems
+- Understood the role of an operating system as an interface between user applications and computer hardware.
+- Learned how the OS manages resources such as CPU, memory, files, and devices.
+- Explored the importance of OS security and process management.
+
+2. User Mode vs Kernel Mode
+User Mode
+- Applications run in user mode with limited privileges.
+- Provides a secure environment to prevent applications from directly accessing hardware.
+- A crash in user mode usually affects only the application.
+Kernel Mode
+- The operating system core and device drivers run in kernel mode.
+- Has complete access to hardware and system memory.
+- Errors in kernel mode can cause system crashes (Blue Screen of Death).
+
+3. Privilege Levels in Windows
+- Windows separates execution into different privilege levels for security.
+- User mode runs with restricted permissions.
+- Kernel mode runs with the highest privileges.
+
+4. System Calls
+- Learned how user applications communicate with the operating system.
+- Applications use system calls to request services from the kernel.
+- Examples:
+  - File operations
+  - Memory allocation
+  - Device access
+
+5. Mode Switching
+- Understood how the CPU switches between user mode and kernel mode.
+- A transition occurs when an application requests an OS service.
+- After completing the task, control returns back to user mode.
+
+6. Importance of Kernel Mode
+- Manages critical system operations.
+- Controls hardware communication through device drivers.
+- Ensures efficient resource management.
+7. Security and Stability
+- Separation between user and kernel mode improves system security.
+- Prevents applications from modifying critical system components.
+- Helps maintain system reliability.
