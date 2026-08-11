@@ -1,0 +1,27 @@
+Day 22 – Detecting Common Attacks
+
+1. Understanding Common Cyber Attacks
+
+* Learned how SOC analysts identify and investigate common types of cyber attacks.
+* Reviewed attacks such as **Brute Force, Phishing, Malware, Credential Theft, and Denial-of-Service (DoS)**.
+* Understood that attackers often leave indicators in system, network, authentication, and application logs.
+* Learned the importance of understanding normal behavior so that unusual activity can be identified more effectively.
+* Understood how attack techniques can be mapped to the **MITRE ATT&CK framework** to better understand attacker behavior and objectives.
+
+2. Attack Detection Techniques
+
+* Learned how repeated failed login attempts can indicate a possible **Brute Force attack**.
+* Understood how suspicious emails, malicious links, unusual attachments, and credential requests can indicate **Phishing** activity.
+* Learned how unusual processes, suspicious file activity, unexpected network connections, and abnormal system behavior can indicate potential **Malware** infections.
+* Reviewed indicators of possible account compromise, including unusual login locations, abnormal authentication activity, and unexpected account behavior.
+* Learned how unusual network traffic patterns and large volumes of requests can indicate potential **DoS or other network-based attacks**.
+* Understood that analysts should correlate multiple events and collect supporting evidence before confirming an attack.
+
+3. Key Takeaways
+
+* Improved my understanding of how common cyber attacks can appear within security logs and monitoring systems.
+* Learned that effective detection requires identifying relevant **Indicators of Compromise (IOCs)** and suspicious patterns.
+* Understood the importance of using SIEM tools to search, correlate, and investigate security events.
+* Learned that detecting an attack is only the first step; analysts must also investigate the scope, impact, and affected systems.
+* Strengthened my ability to connect attack behavior with relevant MITRE ATT&CK techniques.
+* Day 22 helped me understand how SOC analysts use monitoring, log analysis, threat intelligence, and frameworks such as MITRE ATT&CK to detect and investigate common cyber attacks.
