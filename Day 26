@@ -1,0 +1,25 @@
+Day 26 – 30 Common Splunk Queries for SOC Analysts
+
+1. Advanced Query Practice
+
+* Completed another set of **30 common Splunk queries** focused on practical SOC Analyst use cases.
+* Continued practicing SPL commands for searching, filtering, extracting, grouping, and analyzing security events.
+* Learned how different commands can be combined to create more useful investigation searches.
+* Practiced analyzing events based on users, hosts, IP addresses, ports, processes, and time ranges.
+* Understood how query accuracy depends on knowing the available indexes, sourcetypes, and field names.
+
+2. Investigation and Threat Hunting
+
+* Practiced queries for investigating authentication events, suspicious processes, network connections, and endpoint activity.
+* Learned how to search for Indicators of Compromise such as IP addresses, domains, URLs, and file hashes.
+* Practiced identifying unusual behavior by comparing event frequency and activity patterns.
+* Learned how Splunk queries can help investigate potential brute-force attacks, suspicious logins, scanning activity, and abnormal network behavior.
+* Understood how multiple events can be correlated to provide a clearer picture of a potential security incident.
+
+3. Key Takeaways
+
+* Completed three days of practical learning focused on **90 common Splunk queries**.
+* Improved my confidence in using SPL for security monitoring and investigation.
+* Learned how Splunk can be used for alert investigation, threat hunting, IOC searching, and log analysis.
+* Strengthened my understanding of how SOC Analysts use SIEM data to identify suspicious activity.
+* These three days provided valuable hands-on practice and created a strong foundation for writing custom Splunk queries during real-world SOC investigations.
