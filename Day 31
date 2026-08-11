@@ -1,0 +1,27 @@
+Day 31 – Use Case: Wireshark Practical Analysis
+
+1. Practical Packet Analysis
+
+* Practiced using **Wireshark** to analyze captured network traffic and understand how devices communicate over a network.
+* Worked with packet capture files and examined individual packets to identify useful network information.
+* Analyzed details such as source IP, destination IP, source and destination ports, protocols, packet length, and timestamps.
+* Reviewed common protocols including TCP, UDP, DNS, HTTP, ICMP, and ARP.
+* Learned how packet-level information can provide additional evidence during a security investigation.
+
+2. Using Filters for Investigation
+
+* Practiced using Wireshark display filters to narrow down large amounts of network traffic.
+* Used filters to investigate specific IP addresses, ports, and protocols.
+* Practiced identifying DNS requests and examining the domains being queried.
+* Analyzed TCP communication and learned how to follow a TCP stream to understand the conversation between systems.
+* Used packet information to identify unusual connections and investigate potentially suspicious network behavior.
+* Learned that filtering traffic makes it easier to focus on relevant packets during an investigation.
+
+3. Key Takeaways
+
+* Gained practical experience analyzing network traffic using Wireshark.
+* Learned how packet captures can provide valuable evidence that may not be visible in normal security logs.
+* Improved my ability to investigate source and destination IPs, ports, protocols, and network communication.
+* Understood that a single suspicious packet does not necessarily confirm malicious activity and should be analyzed within its broader context.
+* Learned how Wireshark can support SOC analysts during threat hunting, incident investigation, and network-based security analysis.
+* Day 31 strengthened my practical packet-analysis skills and helped me understand how network evidence can be correlated with SIEM, endpoint, and threat intelligence data.
