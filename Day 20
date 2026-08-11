@@ -1,0 +1,27 @@
+Day 20 – Threat Intelligence Platforms
+
+1. Introduction to Threat Intelligence Platforms
+
+* Learned the basic concept of a **Threat Intelligence Platform (TIP)** and its role in cybersecurity.
+* Understood that a TIP helps security teams collect, organize, analyze, and manage threat intelligence from multiple sources.
+* Learned how TIPs can centralize threat intelligence and make it easier for SOC analysts to access relevant information during investigations.
+* Understood the relationship between threat intelligence, Indicators of Compromise (IOCs), and security operations.
+* Learned that TIPs can help transform raw threat data into useful and actionable intelligence.
+
+2. TIP Features and Use Cases
+
+* Learned how TIPs can collect intelligence from different sources such as threat feeds, security tools, reports, and external intelligence providers.
+* Reviewed common threat intelligence data including malicious IP addresses, domains, URLs, file hashes, malware information, and attacker techniques.
+* Understood how TIPs can help organize and enrich IOCs with additional context.
+* Learned how analysts can use threat intelligence platforms to investigate suspicious IP addresses, domains, hashes, and other indicators.
+* Understood how TIPs can support threat detection by providing additional context to security alerts.
+* Learned that TIPs can integrate with other security technologies such as SIEM, EDR, firewalls, and security automation tools.
+
+3. Key Takeaways
+
+* Understood how Threat Intelligence Platforms support the daily activities of SOC analysts.
+* Learned that a TIP provides centralized management of threat intelligence and helps analysts work with large amounts of threat data.
+* Understood the importance of enriching IOCs before using them for detection or investigation.
+* Learned how integrating TIPs with other security tools can improve threat detection and incident response.
+* Recognized that threat intelligence is most valuable when it provides relevant context that helps analysts make better security decisions.
+* Day 20 helped me understand how TIPs connect threat intelligence with practical SOC operations and provide analysts with useful information during security investigations.
