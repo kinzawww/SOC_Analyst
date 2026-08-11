@@ -1,0 +1,27 @@
+Day 37 – SOC Analyst Projects
+
+1. Introduction to SOC Analyst Projects
+
+* Learned about the importance of practical projects in developing real-world SOC Analyst skills.
+* Understood how projects help connect theoretical cybersecurity concepts with practical security operations.
+* Reviewed how SOC analysts use tools such as SIEM, threat intelligence platforms, network analysis tools, and endpoint security solutions during investigations.
+* Learned that practical projects can simulate real-world security incidents and provide experience with monitoring, detection, investigation, and response.
+* Understood the importance of documenting each investigation clearly, including the evidence collected, findings, and actions taken.
+
+2. Practical SOC Investigation
+
+* Learned how a SOC project can involve investigating suspicious activity from the initial alert through the final analysis.
+* Practiced applying concepts such as alert triage, log analysis, IOC identification, threat intelligence, and incident response.
+* Understood how Splunk can be used to search and correlate logs during an investigation.
+* Learned how Wireshark can provide network-level evidence when investigating suspicious communications.
+* Reviewed how MITRE ATT&CK can be used to map observed attacker behavior to known tactics and techniques.
+* Understood the importance of building an incident timeline to connect different events and determine how an attack occurred.
+
+3. Key Takeaways
+
+* Learned that hands-on projects are essential for developing practical SOC Analyst capabilities.
+* Improved my understanding of how different cybersecurity tools and techniques work together during an investigation.
+* Understood the importance of approaching incidents systematically, from detection and triage to investigation and documentation.
+* Learned that a good SOC project should demonstrate technical analysis as well as clear reporting and communication.
+* Strengthened my confidence in applying SIEM, threat intelligence, network analysis, and incident response concepts to practical scenarios.
+* Day 37 helped me understand how SOC Analyst projects can be used to demonstrate practical cybersecurity skills and prepare for real-world SOC responsibilities.
