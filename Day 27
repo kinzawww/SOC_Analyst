@@ -1,0 +1,27 @@
+Day 27 – Use Case: Phishing Email Analysis
+
+1. Understanding Phishing Emails
+
+* Learned how phishing emails are designed to trick users into revealing sensitive information or interacting with malicious content.
+* Understood common phishing techniques such as fake login pages, malicious links, suspicious attachments, impersonation, and urgent requests.
+* Learned how attackers may impersonate trusted organizations, employees, or services to make an email appear legitimate.
+* Reviewed common warning signs, including unusual sender addresses, spelling mistakes, unexpected attachments, suspicious URLs, urgent language, and requests for credentials or financial information.
+* Understood the importance of analyzing an email carefully before determining whether it is legitimate or malicious.
+
+2. Phishing Email Investigation
+
+* Learned how SOC analysts investigate suspicious emails using different pieces of evidence.
+* Practiced examining the **sender address, recipient, subject, timestamps, email headers, URLs, attachments, and message content**.
+* Learned the importance of analyzing email headers to identify information about the sending infrastructure and delivery path.
+* Understood how suspicious URLs and domains can be investigated using threat intelligence platforms and reputation services.
+* Learned how file hashes from suspicious attachments can be checked against threat intelligence sources.
+* Understood how phishing indicators can be correlated with SIEM logs to determine whether other users or systems were affected.
+
+3. Key Takeaways
+
+* Learned that phishing analysis requires examining multiple indicators rather than relying on a single suspicious characteristic.
+* Improved my understanding of **Indicators of Compromise (IOCs)** such as malicious domains, URLs, IP addresses, and file hashes.
+* Understood how SIEM, threat intelligence, email security tools, and endpoint data can support phishing investigations.
+* Learned the importance of documenting findings and determining the scope and potential impact of a phishing incident.
+* Understood that a phishing investigation may involve identifying affected users, analyzing related activity, and supporting containment and response.
+* Day 27 helped me develop a practical understanding of how SOC analysts investigate phishing emails and identify potential threats.
