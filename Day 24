@@ -1,0 +1,25 @@
+Day 24 – 30 Common Splunk Queries for SOC Analysts
+
+1. Splunk Query Fundamentals
+
+* Learned and practiced the first set of common **Splunk SPL queries** used by SOC Analysts.
+* Understood how Splunk can be used to search, filter, and analyze security logs.
+* Practiced basic commands such as `search`, `table`, `stats`, `sort`, `where`, and `dedup`.
+* Learned how to filter security events using fields such as username, IP address, hostname, event type, and timestamp.
+* Understood how effective queries help analysts quickly identify relevant information from large volumes of logs.
+
+2. Security Monitoring Queries
+
+* Practiced queries for identifying successful and failed login attempts.
+* Learned how to identify repeated authentication failures that may indicate brute-force activity.
+* Practiced searching Windows authentication events and account-related activities.
+* Learned how to search for suspicious PowerShell and command-line activity.
+* Practiced queries for investigating network connections, DNS activity, and HTTP events.
+* Learned how to search for specific IP addresses, domains, file hashes, and other Indicators of Compromise.
+
+3. Key Takeaways
+
+* Improved my understanding of SPL and practical Splunk searching.
+* Learned how common queries can support alert investigation and threat detection.
+* Understood how filtering and statistical commands make security data easier to analyze.
+* Built a foundation for writing more advanced Splunk queries during future investigations.
