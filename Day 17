@@ -1,0 +1,27 @@
+Day 17 – Basic SIEM Tool Use Cases
+
+1. SIEM Monitoring and Log Collection
+
+* Learned how SIEM tools collect security logs and events from different sources within an organization's environment.
+* Understood that common log sources include servers, endpoints, firewalls, applications, network devices, and authentication systems.
+* Learned how centralized log collection allows SOC analysts to monitor security activity from a single platform.
+* Understood the importance of timestamps, usernames, IP addresses, event types, and system information when analyzing security events.
+* Learned how SIEM tools help organize large amounts of security data so analysts can search and investigate it efficiently.
+
+2. Common SIEM Use Cases
+
+* Learned how SIEM tools can be used to detect and investigate **multiple failed login attempts**, which may indicate brute-force activity.
+* Understood how unusual login activity can be monitored, such as logins from unexpected locations or unusual times.
+* Learned how SIEM can help identify suspicious administrative activity and unauthorized access attempts.
+* Explored how security teams can monitor unusual network connections, suspicious IP addresses, and abnormal system behavior.
+* Learned about the use of SIEM for detecting potential malware activity, account compromise, privilege escalation, and other suspicious behaviors.
+* Understood how event correlation can connect multiple related events to provide a clearer picture of a possible security incident.
+
+3. Investigation and Alert Management
+
+* Learned how SOC analysts use SIEM alerts as starting points for security investigations.
+* Understood the importance of reviewing alert details and supporting logs before determining whether an alert is a true positive or false positive.
+* Learned how SIEM search and query capabilities help analysts investigate specific users, IP addresses, systems, and time periods.
+* Understood how dashboards and reports provide visibility into security activity and help identify trends.
+* Learned that SIEM use cases support different stages of security operations, including monitoring, detection, investigation, and incident response.
+* This session helped me understand how practical SIEM use cases can turn raw security logs into meaningful information for threat detection and investigation.
