@@ -1,0 +1,28 @@
+Day 16 – SIEM Tool Overview
+
+1. Introduction to SIEM
+
+* Learned the fundamentals of **SIEM (Security Information and Event Management)** and its importance in a Security Operations Center.
+* Understood that SIEM solutions collect and centralize security data from multiple sources such as servers, endpoints, applications, firewalls, and network devices.
+* Learned how SIEM helps security teams monitor activities across an organization's IT environment from a centralized platform.
+* Understood the difference between collecting security logs and using those logs for security monitoring and investigation.
+* Learned that SIEM plays an important role in detecting suspicious activities and supporting incident response.
+
+2. SIEM Features and Capabilities
+
+* Explored the main capabilities commonly provided by SIEM tools.
+* Learned how SIEM platforms collect, normalize, store, and analyze large amounts of security-related data.
+* Understood how **event correlation** can connect multiple related events and help identify potential attacks.
+* Learned about alert generation and how SIEM can notify analysts when specific suspicious conditions are detected.
+* Understood how dashboards and reports provide security teams with a centralized view of important activities.
+* Learned that SIEM tools can help with threat detection, log analysis, investigation, incident response, and security reporting.
+* Gained an overview of how analysts can search security data to investigate suspicious events.
+
+3. Key Takeaways
+
+* Understood why SIEM is considered an important technology for modern SOC environments.
+* Learned how centralized log collection makes security monitoring and investigation more efficient.
+* Understood that SIEM does not replace the SOC analyst; instead, it provides the data and tools required for effective analysis.
+* Learned how alerts, correlation, dashboards, searches, and reports support the security investigation process.
+* Developed a stronger foundation for working with SIEM platforms and analyzing security events.
+* This session helped me understand the role of SIEM in connecting **log collection, threat detection, alert investigation, and incident response** within a SOC.
