@@ -1,0 +1,27 @@
+Day 29 – Alert Triage
+
+1. Understanding Alert Triage
+
+* Learned the fundamentals of **alert triage** and its importance in a SOC environment.
+* Understood that alert triage is the process of reviewing, validating, prioritizing, and categorizing security alerts.
+* Learned that SOC analysts receive a large number of alerts, and not every alert represents a genuine security incident.
+* Understood the difference between **true positives, false positives, and informational alerts**.
+* Learned that effective triage helps analysts focus their time and resources on the alerts that present the greatest security risk.
+
+2. Alert Investigation and Prioritization
+
+* Learned how to review important alert information such as the affected user, host, source IP, destination IP, timestamp, event type, and detection rule.
+* Understood the importance of gathering additional context from SIEM logs, endpoint data, network activity, and threat intelligence.
+* Learned how to determine the potential severity and impact of an alert.
+* Practiced identifying whether an alert is related to suspicious or legitimate activity.
+* Understood how factors such as asset importance, user privileges, attack indicators, and potential business impact can influence alert priority.
+* Learned that high-risk alerts should be investigated and escalated more quickly.
+
+3. Key Takeaways
+
+* Learned that alert triage is one of the important daily responsibilities of a SOC Analyst.
+* Understood that analysts should validate an alert using available evidence instead of immediately treating it as a confirmed incident.
+* Learned how to categorize alerts based on severity, confidence, and potential impact.
+* Understood the importance of documenting investigation steps, findings, and actions taken.
+* Learned that effective triage reduces alert fatigue and helps SOC teams focus on genuine threats.
+* Day 29 improved my understanding of how SOC analysts evaluate security alerts and decide which events require further investigation or escalation.
