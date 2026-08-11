@@ -1,0 +1,36 @@
+Day 11 – SOC Analyst L1 Journey
+
+1. Security Monitoring and SOC Operations
+
+* Learned how a Security Operations Center (SOC) continuously monitors an organization's systems, networks, users, and applications.
+* Understood the importance of identifying unusual or suspicious activities.
+* Learned that not every alert represents a real security incident.
+* Understood the difference between normal activity, suspicious behavior, malicious activity, and false positives.
+* Learned that SOC analysts must investigate alerts carefully before deciding whether an event is a genuine threat.
+* Developed a better understanding of the role of a SOC analyst in monitoring and protecting an organization's environment.
+
+2. Log Analysis and Threat Detection
+
+* Learned that logs are an important source of evidence during security investigations.
+* Reviewed the importance of information such as timestamps, usernames, IP addresses, hostnames, authentication attempts, and security events.
+* Understood how analyzing and correlating different log entries can help identify suspicious patterns.
+* Learned to look for indicators such as repeated failed login attempts, unusual login locations, abnormal login times, unexpected administrative activity, suspicious IP addresses, and unusual network connections.
+* Understood that individual events may not always indicate an attack, but multiple related events can provide stronger evidence of malicious activity.
+* Improved my understanding of how security monitoring and log analysis support threat detection.
+
+3. Investigation Process and Key Takeaways
+
+* Learned a structured approach to investigating security alerts:
+
+  * Review the alert
+  * Collect relevant evidence
+  * Analyze logs and activity
+  * Identify potential threats
+  * Determine severity
+  * Support the appropriate response
+  * Document the findings
+* Understood that SOC analysis requires both technical knowledge and analytical thinking.
+* Learned how SIEM platforms, security alerts, and logs work together to support investigations.
+* Improved my understanding of real-world SOC operations and incident investigation.
+* Continued developing foundational skills in threat detection, log analysis, SIEM monitoring, and incident response.
+* Day 11 helped me build a stronger foundation for progressing toward practical SOC Analyst responsibilities.
