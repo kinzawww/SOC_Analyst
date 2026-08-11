@@ -1,0 +1,30 @@
+Day 28 – Incident Response Workflow
+
+1. Understanding Incident Response
+
+* Learned the fundamentals of **Incident Response (IR)** and its importance in cybersecurity.
+* Understood that incident response is a structured process used to identify, investigate, contain, and recover from security incidents.
+* Learned that an effective IR process helps organizations reduce the impact of cyber attacks and restore normal operations.
+* Understood the role of a SOC Analyst in detecting and escalating potential security incidents.
+* Learned the importance of having a documented and repeatable incident response process.
+
+2. Incident Response Workflow
+
+* Learned the major stages of an incident response workflow:
+
+Preparation – Establish tools, policies, procedures, and security controls before an incident occurs.
+Identification – Detect and analyze suspicious activity to determine whether a security incident has occurred.
+Containment – Limit the spread and impact of the incident by isolating affected systems or accounts.
+Eradication – Remove malware, malicious files, unauthorized access, and other causes of the incident.
+Recovery – Restore affected systems and monitor them to ensure they return to a secure state.
+Lessons Learned – Review the incident, document findings, and identify improvements for future incidents.
+Understood that communication and documentation are important throughout every stage of the response process.
+
+3. Key Takeaways
+
+* Learned that incident response should follow a structured and organized approach rather than relying on random actions.
+* Understood the difference between **detection, containment, eradication, and recovery**.
+* Learned that SOC analysts often play an important role during the identification, investigation, and escalation stages.
+* Understood the importance of collecting evidence and maintaining accurate documentation during an investigation.
+* Learned that lessons learned from previous incidents can improve an organization's future security posture.
+* Day 28 helped me understand how security alerts can progress into formal incident response and how different teams and processes work together to manage cybersecurity incidents.
