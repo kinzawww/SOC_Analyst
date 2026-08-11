@@ -1,0 +1,27 @@
+Day 15 – SOC Analyst L1 Journey
+
+1. SOC Monitoring and Security Events
+
+* Continued learning about the responsibilities of a SOC Analyst in monitoring and analyzing security activities.
+* Learned the importance of continuously reviewing security events to identify unusual or suspicious behavior.
+* Understood how security alerts can provide initial indications of potential threats.
+* Learned that analysts must examine the available information and context before deciding whether an alert represents a genuine security incident.
+* Improved my understanding of how monitoring helps organizations detect threats at an early stage.
+
+2. Alert Investigation and Log Analysis
+
+* Continued developing my understanding of security alerts and their investigation process.
+* Learned how different event details can help an analyst understand what occurred within a system or network.
+* Focused on information such as timestamps, usernames, IP addresses, affected systems, and activity details.
+* Understood the importance of correlating related events instead of analyzing each event separately.
+* Learned that collecting sufficient evidence is necessary to determine whether activity is legitimate, suspicious, or malicious.
+* Strengthened my analytical approach to investigating potential security incidents.
+
+3. Key Takeaways
+
+* Improved my understanding of SOC operations, security monitoring, and incident investigation.
+* Learned the importance of careful analysis and evidence-based decision-making.
+* Strengthened my knowledge of security events, logs, alerts, and threat detection.
+* Understood how identifying patterns and connecting related events can help reveal potential attacks.
+* Recognized the importance of documenting investigation findings clearly and accurately.
+* Day 15 helped me continue developing the technical knowledge and analytical mindset required for a SOC Analyst L1 role.
