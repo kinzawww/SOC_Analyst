@@ -1,0 +1,26 @@
+Day 23 – Introduction to Malware
+
+1. Understanding Malware
+
+* Learned the basic concept of **malware**, which refers to malicious software designed to damage systems, steal information, disrupt operations, or gain unauthorized access.
+* Understood that malware can target computers, servers, mobile devices, networks, and other systems.
+* Learned that malware is commonly delivered through phishing emails, malicious downloads, compromised websites, infected files, and vulnerable systems.
+* Reviewed common types of malware, including **viruses, worms, Trojans, ransomware, spyware, and rootkits**.
+* Understood that different malware families can have different objectives, behaviors, and methods of spreading.
+
+2. Malware Detection and Indicators
+
+* Learned how SOC analysts can identify potential malware activity by monitoring system and network behavior.
+* Reviewed common indicators such as unusual processes, suspicious file creation, unexpected network connections, abnormal system activity, and unauthorized changes.
+* Understood the importance of **Indicators of Compromise (IOCs)** such as malicious file hashes, IP addresses, domains, URLs, and filenames.
+* Learned how SIEM and endpoint security tools can help collect and analyze information related to suspected malware activity.
+* Understood that unusual behavior does not always confirm malware and requires further investigation and evidence.
+
+3. Key Takeaways
+
+* Improved my understanding of what malware is and how it can affect an organization's security.
+* Learned the differences between common malware types and their general behaviors.
+* Understood how malware can enter an environment and potentially spread across systems.
+* Learned that effective malware detection involves analyzing both technical indicators and behavioral patterns.
+* Understood how threat intelligence, SIEM, EDR, and other security tools can assist SOC analysts during malware investigations.
+* Day 23 provided a strong foundation for understanding malware detection, investigation, and response as part of SOC operations.
