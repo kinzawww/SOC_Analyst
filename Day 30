@@ -1,0 +1,27 @@
+Day 30 – Wireshark
+
+1. Introduction to Wireshark
+
+* Learned the fundamentals of **Wireshark**, a network protocol analyzer used to capture and analyze network traffic.
+* Understood how Wireshark allows security analysts to inspect packets and understand communication between systems.
+* Learned about important packet information such as source IP, destination IP, source and destination ports, protocols, packet length, and timestamps.
+* Understood how packet analysis can help identify suspicious network activity and support security investigations.
+* Learned the difference between capturing live network traffic and analyzing previously captured packet capture files.
+
+2. Packet Analysis and Filters
+
+* Learned how to open and examine packet capture files such as `.pcap` and `.pcapng`.
+* Practiced identifying common protocols including **TCP, UDP, DNS, HTTP, HTTPS, ICMP, and ARP**.
+* Learned how to use Wireshark display filters to focus on specific traffic during an investigation.
+* Practiced filters such as `ip.addr`, `tcp.port`, `udp.port`, `dns`, `http`, and `icmp`.
+* Learned how to follow TCP streams to understand communication between a source and destination.
+* Understood how packet details can provide useful evidence during network security investigations.
+
+3. Key Takeaways
+
+* Learned how Wireshark can support SOC analysts during network-based investigations.
+* Understood how packet captures can reveal communication patterns that may not be obvious from high-level security logs.
+* Learned how to identify unusual IP addresses, ports, protocols, DNS requests, and network connections.
+* Understood the importance of analyzing network traffic in context rather than treating a single packet as proof of malicious activity.
+* Learned that Wireshark can be useful for investigating suspicious connections, troubleshooting network activity, and supporting incident response.
+* Day 30 helped me build a practical foundation in packet analysis and understand how network-level evidence can complement SIEM and endpoint security data.
