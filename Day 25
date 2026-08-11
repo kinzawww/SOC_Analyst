@@ -1,0 +1,26 @@
+Day 25 – 30 Common Splunk Queries for SOC Analysts
+
+1. Query-Based Investigation
+
+* Continued practicing another set of **30 common Splunk queries** used in SOC investigations.
+* Learned how to combine different SPL commands to investigate security events more efficiently.
+* Practiced using `stats`, `eval`, `where`, `timechart`, and other commands to analyze event data.
+* Learned how to group events by users, IP addresses, hosts, ports, and other security-related fields.
+* Understood how time-based searches can help analysts identify when suspicious activities occurred.
+
+2. Threat Detection and Hunting
+
+* Practiced queries for identifying unusual authentication behavior and suspicious user activity.
+* Learned how to investigate abnormal network connections and potential scanning activity.
+* Practiced searching for suspicious processes, command-line activity, and endpoint events.
+* Learned how queries can be used to identify unusual traffic patterns and potentially malicious indicators.
+* Practiced using Splunk searches to support basic threat hunting and IOC investigation.
+* Understood how combining multiple fields can provide better context during a security investigation.
+
+3. Key Takeaways
+
+* Improved my ability to create and modify SPL queries for different investigation scenarios.
+* Learned how statistical analysis can reveal unusual patterns in security data.
+* Understood how Splunk queries can help reduce investigation time by quickly filtering relevant events.
+* Strengthened my practical SIEM and threat-hunting skills.
+* Became more comfortable analyzing security information through the Splunk search interface.
