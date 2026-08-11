@@ -1,0 +1,28 @@
+Day 18 – Revision of Day 1 to Day 17
+
+1. Revision of SOC Fundamentals
+
+* Revised the concepts covered from **Day 1 to Day 17** of my SOC Analyst L1 learning journey.
+* Reviewed the fundamentals of cybersecurity and the role and responsibilities of a SOC Analyst.
+* Revised important concepts related to security monitoring, security events, alerts, logs, threat detection, and incident investigation.
+* Reviewed how SOC teams monitor an organization's environment and investigate suspicious activities.
+* Strengthened my understanding of the importance of evidence, analysis, documentation, and proper investigation procedures.
+* Revisited previously learned concepts to build a stronger foundation before moving to more advanced topics.
+
+2. SIEM Concepts Revision
+
+* Revised the fundamentals of **SIEM (Security Information and Event Management)**.
+* Reviewed how SIEM tools collect and centralize logs from different sources such as servers, endpoints, firewalls, applications, and network devices.
+* Revisited important SIEM features including log collection, event analysis, event correlation, alert generation, dashboards, searching, and reporting.
+* Reviewed common SIEM use cases such as detecting failed login attempts, suspicious authentication activity, unusual network connections, unauthorized access, and potential account compromise.
+* Revised the difference between logs, events, and alerts and understood how they are connected during an investigation.
+* Reviewed how SIEM supports SOC analysts during monitoring, threat detection, investigation, and incident response.
+
+3. Key Takeaways
+
+* Used this revision session to reinforce everything learned from **Day 1 through Day 17**.
+* Identified important concepts that require additional hands-on practice, especially log analysis and SIEM investigations.
+* Improved my ability to explain cybersecurity and SOC concepts in my own words.
+* Understood the importance of having strong fundamentals before progressing to advanced security monitoring and investigation techniques.
+* Reviewed the complete learning path covered so far and connected different concepts together.
+* Day 18 was focused on revision, self-assessment, and strengthening my overall understanding before continuing with the next stage of my SOC Analyst L1 journey.
