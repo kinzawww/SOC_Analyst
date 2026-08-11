@@ -1,0 +1,27 @@
+Day 34 – Full Incident Walkthrough | TryHackMe
+
+1. Incident Investigation
+
+* Completed a practical **full incident walkthrough** using a TryHackMe investigation scenario.
+* Applied the concepts learned throughout my SOC Analyst journey to investigate a simulated security incident.
+* Started the investigation by reviewing the available alert and identifying the systems, users, timestamps, and activities involved.
+* Analyzed security logs and other available evidence to understand what happened and how the suspicious activity occurred.
+* Focused on building a timeline of events to understand the sequence of activities during the incident.
+
+2. Investigation and Analysis
+
+* Used log analysis and security investigation techniques to identify suspicious behavior.
+* Investigated relevant IP addresses, usernames, authentication events, processes, and network activity.
+* Used Splunk and other investigation techniques to search for related events and gather additional evidence.
+* Applied concepts such as **Indicators of Compromise (IOCs)** and MITRE ATT&CK techniques to better understand the potential attack.
+* Worked through the investigation by identifying the initial suspicious activity, affected systems, and potential impact.
+* Practiced determining whether individual events were legitimate, suspicious, or related to the main incident.
+
+3. Key Takeaways
+
+* Learned how different SOC concepts connect together during a complete security incident investigation.
+* Improved my practical skills in alert triage, log analysis, SIEM investigation, threat intelligence, and incident response.
+* Understood the importance of creating an accurate timeline and correlating multiple pieces of evidence.
+* Learned that successful incident investigation requires a structured approach rather than relying on a single alert or log entry.
+* Improved my ability to analyze an incident from detection through investigation and response.
+* The TryHackMe walkthrough provided valuable hands-on experience and helped me understand how a SOC Analyst can investigate a real-world style security incident from start to finish.
