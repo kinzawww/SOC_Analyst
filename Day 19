@@ -1,0 +1,27 @@
+Day 19 – Threat Intelligence (TI) Basics
+
+1. Introduction to Threat Intelligence
+
+* Learned the basic concept of **Threat Intelligence (TI)** and its importance in cybersecurity.
+* Threat Intelligence is the process of collecting, analyzing, and using information about potential or existing cyber threats.
+* Understood how TI helps organizations understand who may be targeting them, what techniques attackers use, and which indicators may be associated with malicious activity.
+* Learned that threat intelligence can support SOC teams in detecting, investigating, and responding to security incidents.
+* Understood that useful intelligence should be relevant, accurate, timely, and actionable.
+
+2. Types and Sources of Threat Intelligence
+
+* Learned about different types of threat intelligence, including **strategic, tactical, operational, and technical intelligence**.
+* Strategic intelligence focuses on the broader threat landscape and risks to an organization.
+* Tactical intelligence focuses on attacker techniques, tactics, and procedures.
+* Operational intelligence provides information about ongoing or planned attacks.
+* Technical intelligence focuses on indicators such as IP addresses, domains, URLs, file hashes, and other technical artifacts.
+* Learned that threat intelligence can come from internal logs, security tools, threat feeds, research reports, security communities, and other trusted sources.
+
+3. Key Takeaways
+
+* Learned how Threat Intelligence can help SOC analysts identify and understand potential threats.
+* Understood the importance of **Indicators of Compromise (IOCs)** such as malicious IP addresses, domains, URLs, and file hashes.
+* Learned that threat intelligence becomes more useful when it is analyzed and correlated with an organization's own security data.
+* Understood how TI can improve threat detection, alert investigation, and incident response.
+* Recognized that threat intelligence is not just about collecting information; it is about turning information into useful security knowledge.
+* Day 19 provided a strong foundation for understanding how threat intelligence supports modern SOC operations and proactive security monitoring.
