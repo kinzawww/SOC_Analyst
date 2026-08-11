@@ -1,0 +1,27 @@
+Day 32 – Log Analysis Using Splunk
+
+1. Introduction to Log Analysis
+
+* Learned the fundamentals of **log analysis using Splunk** and its importance in SOC operations.
+* Understood how logs contain valuable information about activities occurring across systems, networks, applications, and users.
+* Learned how Splunk collects and organizes log data so that SOC analysts can search and investigate security events.
+* Reviewed important log fields such as timestamps, usernames, source IP addresses, destination IP addresses, hostnames, ports, actions, and event types.
+* Understood that effective log analysis helps analysts identify suspicious activity and investigate potential security incidents.
+
+2. Analyzing Logs in Splunk
+
+* Practiced using **Splunk Search Processing Language (SPL)** to search and filter security logs.
+* Learned how to investigate authentication events, failed and successful logins, network connections, and system activities.
+* Practiced using commands such as `search`, `stats`, `table`, `sort`, `where`, and `timechart` to analyze event data.
+* Learned how to identify unusual patterns by grouping events according to users, IP addresses, hosts, and other fields.
+* Practiced investigating suspicious activities by narrowing searches to specific time periods and relevant event information.
+* Understood how log correlation can help connect multiple events and provide better context during an investigation.
+
+3. Key Takeaways
+
+* Improved my practical understanding of **Splunk-based log analysis**.
+* Learned how raw security logs can be transformed into useful information for threat detection and investigation.
+* Understood the importance of analyzing events in context instead of relying on a single log entry.
+* Learned how SOC analysts use Splunk to investigate alerts, identify suspicious behavior, and support threat hunting.
+* Strengthened my ability to use SPL queries for filtering, searching, grouping, and analyzing security data.
+* Day 32 helped me develop practical SIEM skills and understand how effective log analysis supports security monitoring, incident investigation, and threat detection.
