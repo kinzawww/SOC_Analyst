@@ -1,0 +1,27 @@
+Day 21 – Understanding MITRE ATT&CK
+
+1. Introduction to MITRE ATT&CK
+
+* Learned the fundamentals of the **MITRE ATT&CK framework** and its importance in cybersecurity.
+* Understood that ATT&CK is a knowledge base that documents real-world adversary behaviors and techniques used during cyber attacks.
+* Learned how security teams use the framework to understand how attackers operate and how different techniques can be identified.
+* Understood the difference between **Tactics, Techniques, and Procedures (TTPs)**.
+* Learned that MITRE ATT&CK can help SOC analysts improve threat detection, investigation, and incident response.
+
+2. Tactics and Techniques
+
+* Learned that **tactics** represent an attacker's overall objective or goal during an attack.
+* Understood that **techniques** describe the methods attackers use to achieve those objectives.
+* Learned that techniques can have **sub-techniques** that provide more specific information about attacker behavior.
+* Reviewed examples of ATT&CK tactics such as **Initial Access, Execution, Persistence, Privilege Escalation, Defense Evasion, Credential Access, Discovery, Lateral Movement, and Exfiltration**.
+* Understood how mapping observed suspicious activity to ATT&CK techniques can provide useful context during an investigation.
+* Learned that ATT&CK can help analysts identify possible attack stages and understand an adversary's behavior.
+
+3. Key Takeaways
+
+* Understood why MITRE ATT&CK is widely used by SOC and security teams as a common framework for describing attacker behavior.
+* Learned how ATT&CK can be used to map security alerts and observed activities to known adversary techniques.
+* Understood that the framework can help identify gaps in an organization's detection and monitoring capabilities.
+* Learned how ATT&CK supports threat hunting, detection engineering, incident investigation, and threat intelligence.
+* Recognized that understanding attacker behavior is important for moving from simple alert monitoring toward deeper security analysis.
+* Day 21 provided a strong foundation for using MITRE ATT&CK during future SOC investigations and threat detection activities.
