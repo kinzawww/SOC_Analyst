@@ -1,0 +1,27 @@
+Day 33 – Log Analysis Using Splunk
+
+1. Log Analysis Fundamentals
+
+* Continued practicing **log analysis using Splunk** as part of my SOC Analyst learning journey.
+* Learned how security logs provide valuable information about activities occurring across systems, users, applications, and networks.
+* Reviewed important fields such as timestamps, usernames, source and destination IP addresses, hostnames, ports, actions, and event types.
+* Understood how centralized log collection makes it easier for SOC analysts to investigate security events.
+* Learned the importance of understanding the context of an event before determining whether activity is legitimate or suspicious.
+
+2. Splunk Search and Investigation
+
+* Practiced using **Splunk Search Processing Language (SPL)** to search and analyze security logs.
+* Used commands such as `search`, `stats`, `table`, `sort`, `where`, and `timechart` to organize and investigate events.
+* Practiced filtering logs based on specific users, IP addresses, hosts, event types, and time periods.
+* Learned how to identify patterns such as repeated authentication failures, unusual login activity, and suspicious network connections.
+* Practiced correlating related events to understand the sequence of activities during a potential security incident.
+* Understood how Splunk searches can support alert investigation and basic threat hunting.
+
+3. Key Takeaways
+
+* Improved my practical skills in analyzing security logs using Splunk.
+* Learned how to convert large amounts of raw log data into useful information for security investigations.
+* Understood the importance of filtering and correlating events to identify suspicious patterns.
+* Strengthened my ability to investigate users, hosts, IP addresses, and other security-related fields.
+* Learned how effective log analysis can help SOC analysts detect threats, investigate alerts, and understand the scope of an incident.
+* Day 33 further strengthened my SIEM and Splunk skills and provided additional practice in analyzing security data from a SOC Analyst perspective.
